@@ -1,0 +1,7 @@
+C:\Users\Matheus Maestri\Documents\GitHub\Projetos C#\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+C:\Users\Matheus Maestri\Documents\GitHub\Projetos C#\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+C:\Users\Matheus Maestri\Documents\GitHub\Projetos C#\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+C:\Users\Matheus Maestri\Documents\GitHub\Projetos C#\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.AssemblyReference.cache
+C:\Users\Matheus Maestri\Documents\GitHub\Projetos C#\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Maestri\Documents\GitHub\Projetos C#\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+C:\Users\Matheus Maestri\Documents\GitHub\Projetos C#\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
